@@ -27,28 +27,32 @@
   <tbody>
       <tr>
       <td>🌏Global直播源</td>
-      <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
-      <td>176个</td>
-      <td>2023.8.20</td>
+      <td><a href="https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/global.m3u">https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/global.m3u</a></td>
+      <td>210个</td>
+      <td>2023.10.5</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
-      <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
+      <td><a href="https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/ipv6.m3u">https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/ipv6.m3u</a></td>
       <td>120个</td>
-      <td>2023.8.13</td>
+      <td>2023.8.28</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
-      <td><a href="https://live.fanmingming.com/radio/m3u/index.m3u">https://live.fanmingming.com/radio/m3u/index.m3u</a></td>
-      <td>317个</td>
-      <td>2023.5.3</td>
+      <td><a href="https://raw.githubusercontent.com/Navezjt/live/main/radio/m3u/index.m3u">https://raw.githubusercontent.com/Navezjt/live/main/radio/m3u/index.m3u</a></td>
+      <td>304个</td>
+      <td>2023.8.27</td>
     </tr>
   </tbody>
 </table>
 
 ## 🛠️工具
-- 🆕EPG接口地址：
+- 📆EPG接口地址：
   -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
+- 🆕Bing每日图片：
+  -  [https://fanmingming.com/bing](https://fanmingming.com/bing)
+- 🎞️m3u8下载工具：
+  -  [https://live.fanmingming.com/m3u8](https://live.fanmingming.com/m3u8)
 - 📄M3U To TXT：
   - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - 🌐M3U8 Web Player
@@ -65,11 +69,11 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.8.20
-  - 最近可能是又🐐了，没能及时更新。Global源去掉了一些无法播放的频道，增加了一些中文频道。
+- 2023.10.5
+  - 假期已接近尾声。Global源更新了auth参数以应对各种内置，去掉了北京的频道，增加了CHC系列频道(高峰期可能播放不流畅，体验不好的话后面会做删减)。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
-  - 自2022年10月创立以来，得益于大家的支持，项目已获得超过6K颗星星，在中文GitHub项目中名声鹊起。感激一路相伴，项目将持续免费。所有款项用途将透明公示于项目的[Sponsor.MD](https://github.com/fanmingming/live/blob/main/Sponsor.MD)。
+  - 自2022年10月创立以来，得益于大家的支持，项目已获得超过6K颗星星，在中文GitHub项目中名声鹊起。感激一路相伴，项目将持续免费。所有款项将透明公示于项目的[Sponsor.MD](https://github.com/fanmingming/live/blob/main/Sponsor.MD)。
 
 <img alt="Sponsor" src="https://live.fanmingming.com/sponsor.png">
