@@ -27,19 +27,19 @@
   <tbody>
       <tr>
       <td>🌏Global直播源</td>
-      <td><a href="https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/global.m3u">https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/global.m3u</a></td>
+      <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
       <td>210个</td>
       <td>2023.10.5</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
-      <td><a href="https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/ipv6.m3u">https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/ipv6.m3u</a></td>
+      <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td>120个</td>
       <td>2023.8.28</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
-      <td><a href="https://raw.githubusercontent.com/Navezjt/live/main/radio/m3u/index.m3u">https://raw.githubusercontent.com/Navezjt/live/main/radio/m3u/index.m3u</a></td>
+      <td><a href="https://live.fanmingming.com/radio/m3u/index.m3u">https://live.fanmingming.com/radio/m3u/index.m3u</a></td>
       <td>304个</td>
       <td>2023.8.27</td>
     </tr>
@@ -69,8 +69,8 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.10.5
-  - 假期已接近尾声。Global源更新了auth参数以应对各种内置，去掉了北京的频道，增加了CHC系列频道(高峰期可能播放不流畅，体验不好的话后面会做删减)。
+- 2023.10.9
+  - Global源调整了分类排序。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
