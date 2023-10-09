@@ -27,19 +27,19 @@
   <tbody>
       <tr>
       <td>🌏Global直播源</td>
-      <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
+      <td><a href="https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/global.m3u">https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/global.m3u</a></td>
       <td>210个</td>
       <td>2023.10.5</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
-      <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
+      <td><a href="https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/ipv6.m3u">https://raw.githubusercontent.com/Navezjt/live/main/tv/m3u/ipv6.m3u</a></td>
       <td>120个</td>
       <td>2023.8.28</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
-      <td><a href="https://live.fanmingming.com/radio/m3u/index.m3u">https://live.fanmingming.com/radio/m3u/index.m3u</a></td>
+      <td><a href="https://raw.githubusercontent.com/Navezjt/live/main/radio/m3u/index.m3u">https://raw.githubusercontent.com/Navezjt/live/main/radio/m3u/index.m3u</a></td>
       <td>304个</td>
       <td>2023.8.27</td>
     </tr>
