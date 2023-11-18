@@ -1,4 +1,4 @@
-(function () { 
+(function () {
 
   // 下载代理，使用 iframe，还是 navigate 
   const downloadStrategy =
