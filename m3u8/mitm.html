@@ -2,7 +2,7 @@
 <!-- 本页面存在的意义，在于隔离 web 主进程的请求，让 serviceWorker 仅拦截本页面的请求 -->
 
 <!-- serviceWorker 完全异步，全程 API 均使用 Promise 完成异步操作 -->
-<script> 
+<script>
   // 保活，每 10s 执行一次 ping，避免 serviceWorker 被删除
   let keepAlive = () => {
     keepAlive = () => { }
