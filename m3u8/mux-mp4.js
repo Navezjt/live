@@ -2,7 +2,7 @@
 /**
  * mux.js
  *
- * Copyright (c) Brightcove
+ * Copyright (c) Brightcove 
  * Licensed Apache-2.0 https://github.com/videojs/mux.js/blob/master/LICENSE
  *
  * A stream-based aac to mp4 converter. This utility can be used to
