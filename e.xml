@@ -61845,7 +61845,52 @@
 	<programme channel="甘肃都市" start="20231119204800 +0800" stop="20231119210100 +0800">
 		<title lang="zh">艺静琳朝</title>
 	</programme>
-	<programme channel="甘肃都市" start="2023" start="20231119060000 +0800" stop="20231119070000 +0800">
+	<programme channel="甘肃都市" start="20231119210100 +0800" stop="20231119212300 +0800">
+		<title lang="zh">家园</title>
+	</programme>
+	<programme channel="甘肃都市" start="20231119212300 +0800" stop="20231119213000 +0800">
+		<title lang="zh">快手时间</title>
+	</programme>
+	<programme channel="甘肃都市" start="20231119213000 +0800" stop="20231119215500 +0800">
+		<title lang="zh">甘肃新闻</title>
+	</programme>
+	<programme channel="甘肃都市" start="20231119215500 +0800" stop="20231119220000 +0800">
+		<title lang="zh">快手时间</title>
+	</programme>
+	<programme channel="甘肃都市" start="20231119220000 +0800" stop="20231119230000 +0800">
+		<title lang="zh">都市第1线</title>
+	</programme>
+	<programme channel="甘肃都市" start="20231119230000 +0800" stop="20231119232200 +0800">
+		<title lang="zh">家园</title>
+	</programme>
+	<programme channel="甘肃都市" start="20231119232200 +0800" stop="20231119235900 +0800">
+		<title lang="zh">琳动金城</title>
+	</programme>
+	<channel id="生命">
+		<display-name lang="zh">生命</display-name>
+	</channel>
+	<programme channel="生命" start="20231119010000 +0800" stop="20231119020000 +0800">
+		<title lang="zh">传喜法师弘法行(普)</title>
+	</programme>
+	<programme channel="生命" start="20231119020000 +0800" stop="20231119023000 +0800">
+		<title lang="zh">善知识法语(普)</title>
+	</programme>
+	<programme channel="生命" start="20231119023000 +0800" stop="20231119030000 +0800">
+		<title lang="zh">菩提如是说(普)</title>
+	</programme>
+	<programme channel="生命" start="20231119030000 +0800" stop="20231119040000 +0800">
+		<title lang="zh">般若讲座(普)</title>
+	</programme>
+	<programme channel="生命" start="20231119040000 +0800" stop="20231119043000 +0800">
+		<title lang="zh">经典佛曲(普)</title>
+	</programme>
+	<programme channel="生命" start="20231119043000 +0800" stop="20231119050000 +0800">
+		<title lang="zh">经典读诵(普)</title>
+	</programme>
+	<programme channel="生命" start="20231119050000 +0800" stop="20231119060000 +0800">
+		<title lang="zh">早课(普)</title>
+	</programme>
+	<programme channel="生命" start="20231119060000 +0800" stop="20231119070000 +0800">
 		<title lang="zh">菩提系列(普)</title>
 	</programme>
 	<programme channel="生命" start="20231119070000 +0800" stop="20231119080000 +0800">
@@ -65387,6 +65432,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20231119161200 +0800" stop="20231119165200 +0800">
 		<title lang="zh">探索b7发现4K 黑土地和她的朋友们（2）希望的田野</title>
+	</programme>
+	<programme channel="纯享4K" start="20231119165200 +0800" stop="20231119172200 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7保山篇（2）</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -75258,6 +75306,9 @@
 	<programme channel="黑莓动画" start="20231119164400 +0800" stop="20231119164700 +0800">
 		<title lang="zh">大家都爱善良的奥特曼3D版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20231119165800 +0800" stop="20231119170400 +0800">
+		<title lang="zh">11_咚咚仔与咕咕喵第三季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75290,6 +75341,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20231119152900 +0800" stop="20231119165800 +0800">
 		<title lang="zh">双龙会</title>
+	</programme>
+	<programme channel="黑莓电影" start="20231119165800 +0800" stop="20231119182700 +0800">
+		<title lang="zh">斗战苍穹</title>
 	</programme>
 	<channel id="黑龙江公共农业">
 		<display-name lang="zh">黑龙江公共农业</display-name>
@@ -76512,6 +76566,9 @@
 	<programme channel="newtv超级综艺" start="20231119152500 +0800" stop="20231119164700 +0800">
 		<title lang="zh">乐在旅途</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20231119164700 +0800" stop="20231119180300 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -76965,6 +77022,9 @@
 	<programme channel="newtv军旅剧场" start="20231119160800 +0800" stop="20231119165100 +0800">
 		<title lang="zh">14_和平之舟</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20231119165100 +0800" stop="20231119173300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -77328,6 +77388,9 @@
 	<programme channel="newtv潮妈辣婆" start="20231119160800 +0800" stop="20231119165400 +0800">
 		<title lang="zh">40_骊歌行</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20231119165400 +0800" stop="20231119175500 +0800">
+		<title lang="zh">根源约会高颜值女4脸红害羞</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -77631,6 +77694,9 @@
 	<programme channel="newtv惊悚悬疑" start="20231119154200 +0800" stop="20231119165400 +0800">
 		<title lang="zh">六扇门之血手奇谭</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20231119165400 +0800" stop="20231119181100 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -77795,6 +77861,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20231119160000 +0800" stop="20231119165600 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20231119165600 +0800" stop="20231119174100 +0800">
+		<title lang="zh">45_三国机密之潜龙在渊</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
