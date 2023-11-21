@@ -1,4 +1,4 @@
-name: EPG Update 
+name: EPG Update
 
 on:
   push:
