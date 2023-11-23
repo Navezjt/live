@@ -27843,6 +27843,9 @@
 	<programme channel="华数漫游世界" start="20231123134000 +0800" stop="20231123140400 +0800">
 		<title lang="zh">上海贸易百年03</title>
 	</programme>
+	<programme channel="华数漫游世界" start="20231123141300 +0800" stop="20231123143800 +0800">
+		<title lang="zh">中医轶事5</title>
+	</programme>
 	<channel id="华数电子竞技">
 		<display-name lang="zh">华数电子竞技</display-name>
 	</channel>
@@ -27954,6 +27957,9 @@
 	<programme channel="华数电子竞技" start="20231123132800 +0800" stop="20231123140800 +0800">
 		<title lang="zh">JJ斗地主冠军杯S3春季赛D组7-1天津津门荣耀VS广东N5菁英会</title>
 	</programme>
+	<programme channel="华数电子竞技" start="20231123140800 +0800" stop="20231123141800 +0800">
+		<title lang="zh">冬雪海上漂流记第二季_第32集鲨鱼针对我</title>
+	</programme>
 	<channel id="华数精品剧场">
 		<display-name lang="zh">华数精品剧场</display-name>
 	</channel>
@@ -28013,6 +28019,9 @@
 	</programme>
 	<programme channel="华数精品剧场" start="20231123132200 +0800" stop="20231123140800 +0800">
 		<title lang="zh">上线下线_21</title>
+	</programme>
+	<programme channel="华数精品剧场" start="20231123140800 +0800" stop="20231123145400 +0800">
+		<title lang="zh">两个女人的战争_32</title>
 	</programme>
 	<channel id="华数风尚音乐">
 		<display-name lang="zh">华数风尚音乐</display-name>
@@ -32594,6 +32603,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20231123120000 +0800" stop="20231123140500 +0800">
 		<title lang="zh">23/24赛季西甲第13轮全场回放：阿尔梅里亚1:3皇家社会（张昊泽）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20231123140500 +0800" stop="20231123161000 +0800">
+		<title lang="zh">23/24赛季意甲第11轮全场回放：AC米兰0:1乌迪内斯（鲁靖明、李彦）</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -43763,6 +43775,9 @@
 	</programme>
 	<programme channel="数少儿动漫" start="20231123125100 +0800" stop="20231123141300 +0800">
 		<title lang="zh">神奇乐园历险记</title>
+	</programme>
+	<programme channel="数少儿动漫" start="20231123141300 +0800" stop="20231123142800 +0800">
+		<title lang="zh">羊羊小侦探_29</title>
 	</programme>
 	<channel id="文化精品">
 		<display-name lang="zh">文化精品</display-name>
@@ -57918,6 +57933,9 @@
 	<programme channel="爱历史" start="20231123132100 +0800" stop="20231123140600 +0800">
 		<title lang="zh">傻儿传奇_34</title>
 	</programme>
+	<programme channel="爱历史" start="20231123140600 +0800" stop="20231123144400 +0800">
+		<title lang="zh">当卢浮宫遇见紫禁城10</title>
+	</programme>
 	<channel id="爱喜剧">
 		<display-name lang="zh">爱喜剧</display-name>
 	</channel>
@@ -58542,6 +58560,9 @@
 	<programme channel="爱幼教" start="20231123134500 +0800" stop="20231123140000 +0800">
 		<title lang="zh">十二生肖之天下属兔_38</title>
 	</programme>
+	<programme channel="爱幼教" start="20231123140000 +0800" stop="20231123141500 +0800">
+		<title lang="zh">十二生肖之天下属兔_39</title>
+	</programme>
 	<channel id="爱悬疑">
 		<display-name lang="zh">爱悬疑</display-name>
 	</channel>
@@ -58661,6 +58682,9 @@
 	</programme>
 	<programme channel="爱旅行" start="20231123132200 +0800" stop="20231123140600 +0800">
 		<title lang="zh">山月不知心底事_3</title>
+	</programme>
+	<programme channel="爱旅行" start="20231123140600 +0800" stop="20231123145100 +0800">
+		<title lang="zh">做客中国1</title>
 	</programme>
 	<channel id="爱浪漫">
 		<display-name lang="zh">爱浪漫</display-name>
@@ -58895,6 +58919,9 @@
 	</programme>
 	<programme channel="爱谍战" start="20231123131800 +0800" stop="20231123140300 +0800">
 		<title lang="zh">再造之恩_20</title>
+	</programme>
+	<programme channel="爱谍战" start="20231123140300 +0800" stop="20231123144800 +0800">
+		<title lang="zh">东海客栈_2</title>
 	</programme>
 	<channel id="爱赛车">
 		<display-name lang="zh">爱赛车</display-name>
@@ -75722,6 +75749,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20231123095500 +0800" stop="20231123123200 +0800">
 		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20231123123200 +0800" stop="20231123140300 +0800">
+		<title lang="zh">诗画中国</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20231123140300 +0800" stop="20231123145300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20231123123200 +0800" stop="20231123140300 +0800">
 		<title lang="zh">诗画中国</title>
