@@ -28998,6 +28998,9 @@
 	<programme channel="华数亚洲影院" start="20231201210900 +0800" stop="20231201230000 +0800">
 		<title lang="zh">血战湘江</title>
 	</programme>
+	<programme channel="华数亚洲影院" start="20231201230000 +0800" stop="20231201000000 +0800">
+		<title lang="zh">功夫</title>
+	</programme>
 	<channel id="华数探索纪录">
 		<display-name lang="zh">华数探索纪录</display-name>
 	</channel>
@@ -29466,6 +29469,9 @@
 	<programme channel="华数电子竞技" start="20231201225000 +0800" stop="20231201230100 +0800">
 		<title lang="zh">冬雪我的世界神奇宝贝第二季_40目标完成</title>
 	</programme>
+	<programme channel="华数电子竞技" start="20231201230100 +0800" stop="20231201233700 +0800">
+		<title lang="zh">JJ斗地主冠军杯S3春季赛D组3-2天津津门荣耀VS内蒙古金牌牧人</title>
+	</programme>
 	<channel id="华数精品剧场">
 		<display-name lang="zh">华数精品剧场</display-name>
 	</channel>
@@ -29708,6 +29714,9 @@
 	</programme>
 	<programme channel="华数高清娱乐" start="20231201222600 +0800" stop="20231201231200 +0800">
 		<title lang="zh">同一屋檐下第一季_第2期上篇</title>
+	</programme>
+	<programme channel="华数高清娱乐" start="20231201231200 +0800" stop="20231201235500 +0800">
+		<title lang="zh">同一屋檐下第一季_第2期下篇</title>
 	</programme>
 	<channel id="华纳电视">
 		<display-name lang="zh">华纳电视</display-name>
@@ -60438,6 +60447,9 @@
 	<programme channel="爱体育" start="20231201223400 +0800" stop="20231201230800 +0800">
 		<title lang="zh">JJ斗地主冠军杯S3春季赛D组1-3河北源斗团VS天津津门荣耀</title>
 	</programme>
+	<programme channel="爱体育" start="20231201230800 +0800" stop="20231201235000 +0800">
+		<title lang="zh">JJ斗地主冠军杯S3春季赛D组3-1天津津门荣耀VS内蒙古金牌牧人</title>
+	</programme>
 	<channel id="爱动漫">
 		<display-name lang="zh">爱动漫</display-name>
 	</channel>
@@ -60566,6 +60578,9 @@
 	</programme>
 	<programme channel="爱动漫" start="20231201225500 +0800" stop="20231201230800 +0800">
 		<title lang="zh">海底小纵队第一季英文版_7</title>
+	</programme>
+	<programme channel="爱动漫" start="20231201230800 +0800" stop="20231201232000 +0800">
+		<title lang="zh">海底小纵队第一季英文版_8</title>
 	</programme>
 	<channel id="爱历史">
 		<display-name lang="zh">爱历史</display-name>
@@ -61362,6 +61377,9 @@
 	<programme channel="爱幼教" start="20231201224000 +0800" stop="20231201230100 +0800">
 		<title lang="zh">奶油豆豆咖啡馆_12</title>
 	</programme>
+	<programme channel="爱幼教" start="20231201230100 +0800" stop="20231201232300 +0800">
+		<title lang="zh">奶油豆豆咖啡馆_13</title>
+	</programme>
 	<channel id="爱悬疑">
 		<display-name lang="zh">爱悬疑</display-name>
 	</channel>
@@ -61811,6 +61829,9 @@
 	</programme>
 	<programme channel="爱科学" start="20231201223000 +0800" stop="20231201230100 +0800">
 		<title lang="zh">酒美中国2</title>
+	</programme>
+	<programme channel="爱科学" start="20231201230100 +0800" stop="20231201232500 +0800">
+		<title lang="zh">指尖上的传承:长白仙草</title>
 	</programme>
 	<channel id="爱科幻">
 		<display-name lang="zh">爱科幻</display-name>
@@ -66875,6 +66896,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20231201224500 +0800" stop="20231201231500 +0800">
 		<title lang="zh">国家荣光4K 赤胆忠心 钱壮飞</title>
+	</programme>
+	<programme channel="纯享4K" start="20231201231500 +0800" stop="20231201000300 +0800">
+		<title lang="zh">智造美好生活4K 第1集 家 世界</title>
 	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
@@ -77109,6 +77133,9 @@
 	<programme channel="黑莓动画" start="20231201224000 +0800" stop="20231201230500 +0800">
 		<title lang="zh">35_名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20231201230500 +0800" stop="20231201233000 +0800">
+		<title lang="zh">36_名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78792,6 +78819,9 @@
 	<programme channel="newtv精品纪录" start="20231201230100 +0800" stop="20231201231100 +0800">
 		<title lang="zh">第22集：福建福州 红蟳糯米饭</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20231201231100 +0800" stop="20231201232100 +0800">
+		<title lang="zh">第23集：浙江舟山 三鲜炒米面</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79364,6 +79394,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20231201224200 +0800" stop="20231201230700 +0800">
 		<title lang="zh">我驾“鲲鹏”凌九霄</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20231201230700 +0800" stop="20231201233300 +0800">
+		<title lang="zh">挑战高难水上驾驶</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
